@@ -9,4 +9,8 @@ Exploratory Data Analysis - Retail Dashboard Using Power bi
 # Dataset 
 **SampleSuperstore:**   [Link Here](https://bit.ly/3i4rbWl)
 
+## Sample
+![Retail Dashboard](https://github.com/Abdelrhman2022/Retail-Dashboard/blob/main/Sample.PNG)
+
+
 
